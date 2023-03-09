@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kishanaghera/static/css/main.51006e3d.css",
-    "main.js": "/kishanaghera/static/js/main.14087d52.js",
+    "main.css": "/kishanaghera/static/css/main.1b8e273d.css",
+    "main.js": "/kishanaghera/static/js/main.fc7933ef.js",
     "static/js/787.1ed0c42c.chunk.js": "/kishanaghera/static/js/787.1ed0c42c.chunk.js",
     "static/media/suicide.png": "/kishanaghera/static/media/suicide.d6606cae956e7de30958.png",
     "static/media/leaf.png": "/kishanaghera/static/media/leaf.13d80491ad6074d201e8.png",
@@ -15,12 +15,12 @@
     "static/media/s_icon.png": "/kishanaghera/static/media/s_icon.9023b773f62cbd248d61.png",
     "static/media/pre.svg": "/kishanaghera/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/kishanaghera/index.html",
-    "main.51006e3d.css.map": "/kishanaghera/static/css/main.51006e3d.css.map",
-    "main.14087d52.js.map": "/kishanaghera/static/js/main.14087d52.js.map",
+    "main.1b8e273d.css.map": "/kishanaghera/static/css/main.1b8e273d.css.map",
+    "main.fc7933ef.js.map": "/kishanaghera/static/js/main.fc7933ef.js.map",
     "787.1ed0c42c.chunk.js.map": "/kishanaghera/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51006e3d.css",
-    "static/js/main.14087d52.js"
+    "static/css/main.1b8e273d.css",
+    "static/js/main.fc7933ef.js"
   ]
 }
